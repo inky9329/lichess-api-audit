@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^16"
+    "dotenv": "^16.0.3"
   },
   "engines": {
     "node": ">=18"
