@@ -4,7 +4,7 @@
   "license": "MIT",
   "dependencies": {
     "@bity/oauth2-auth-code-pkce": "^2",
-    "snabbdom": "^3"
+    "snabbdom": "^3.5.1"
   },
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21",
